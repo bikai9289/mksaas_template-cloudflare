@@ -1,0 +1,403 @@
+{
+  "page": {
+     "show_sections": [
+      "hero",
+      "logos",
+      "introduce",
+      "benefits",
+      "usage",
+      "features",
+      "stats",
+      "testimonials",
+      "faq",
+      "cta"
+    ],
+    "sections": {
+      "hero": {
+        "id": "hero",
+        "title": "Generate AI Video Prompts in Seconds",
+        "highlight_text": "in Seconds",
+        "description": "VideoPrompThub is an AI video prompt generation platform.<br/>Experience various AI capabilities and create amazing video prompts effortlessly.",
+        
+
+        "buttons": [
+          {
+            "title": "Get Started",
+            "icon": "Zap",
+            "url": "/pricing",
+            "target": "_self",
+            "variant": "default"
+          }
+      
+        ],
+        "show_avatars": false,
+        "avatars_tip": "999+ creators are using VideoPrompThub",
+        "show_award": false,
+        
+        "background_image": {
+          "src": "/imgs/bg/anime.jpg",
+          "alt": "hero"
+        }
+      },
+      "logos": {
+        "id": "logos",
+        "title": "Video Prompts is powered by cutting-edge AI technology",
+        "items": [
+          {
+            "title": "Next.js",
+            "image": {
+              "src": "/imgs/logos/nextjs.svg",
+              "alt": "Next.js"
+            }
+          },
+          {
+            "title": "React",
+            "image": {
+              "src": "/imgs/logos/react.svg",
+              "alt": "React"
+            }
+          },
+          {
+            "title": "TailwindCSS",
+            "image": {
+              "src": "/imgs/logos/tailwindcss.svg",
+              "alt": "TailwindCSS"
+            }
+          },
+          {
+            "title": "Shadcn/UI",
+            "image": {
+              "src": "/imgs/logos/shadcn.svg",
+              "alt": "Shadcn/UI"
+            }
+          },
+          {
+            "title": "Vercel",
+            "image": {
+              "src": "/imgs/logos/vercel.svg",
+              "alt": "Vercel"
+            }
+          }
+        ]
+      },
+      "introduce": {
+        "block": "features-list",
+        "id": "introduce",
+        "title": "What is Video Prompts",
+        "label": "Introduce",
+        "description": "Video Prompts is an AI-powered platform for generating creative video prompts, helping creators bring their ideas to life.",
+        "image": {
+          "src": "/imgs/features/landing-page.png",
+          "alt": "introduce"
+        },
+        "items": [
+          {
+            "title": "Ready-to-use Templates",
+            "description": "Choose from dozens of production-ready AI SaaS templates to quickly start your project.",
+            "icon": "RiNextjsFill",
+            "image": {
+              "src": "/imgs/features/1.png",
+              "alt": "introduce"
+            }
+          },
+          {
+            "title": "Infrastructure Setup",
+            "description": "Get instant access to scalable infrastructure with best practices built-in.",
+            "icon": "RiDatabase2Line",
+            "image": {
+              "src": "/imgs/features/2.png",
+              "alt": "introduce"
+            }
+          },
+          {
+            "title": "Quick Deployment",
+            "description": "Deploy your AI SaaS application to production in hours, not days.",
+            "icon": "RiCloudyFill",
+            "image": {
+              "src": "/imgs/features/3.png",
+              "alt": "introduce"
+            }
+          },
+          {
+            "title": "AI Integration",
+            "description": "Integrate AI into your project with ease using our built-in AI SDK.",
+            "icon": "RiRobot2Line",
+            "image": {
+              "src": "/imgs/features/4.png",
+              "alt": "introduce"
+            }
+          }
+        ],
+        "className": "bg-muted"
+      },
+      "benefits": {
+        "block": "features-accordion",
+        "id": "benefits",
+        "title": "Why Choose Video Prompts",
+        "label": "Benefits",
+        "description": "Get everything you need to launch your AI startup - from ready-to-use templates to technical support.",
+        "items": [
+          {
+            "title": "Complete Framework",
+            "description": "Built on Next.js with authentication, payments, and AI integration - everything works out of the box.",
+            "icon": "RiNextjsFill",
+            "image": {
+              "src": "/imgs/features/user-billing.png",
+              "alt": "benefits"
+            }
+          },
+          {
+            "title": "Rich Templates Library",
+            "description": "Choose from various AI SaaS templates to kickstart your project - chatbots, image generation, and more.",
+            "icon": "RiClapperboardAiLine",
+            "image": {
+              "src": "/imgs/features/admin-settings.png",
+              "alt": "benefits"
+            }
+          },
+          {
+            "title": "Technical Guidance",
+            "description": "Get dedicated support and join our developer community to ensure your successful launch.",
+            "icon": "RiCodeFill",
+            "image": {
+              "src": "/imgs/features/landing-page.png",
+              "alt": "benefits"
+            }
+          }
+        ]
+      },
+      "usage": {
+        "block": "features-step",
+        "id": "usage",
+        "title": "How to Use Video Prompts",
+        "description": "Create amazing video prompts in three simple steps:",
+        "image": {
+          "src": "/imgs/features/1.png",
+          "alt": "usage"
+        },
+        "image_position": "left",
+        "text_align": "center",
+        "items": [
+          {
+            "title": "Sign Up",
+            "description": "Create your free account and explore the platform's features.",
+            "image": {
+              "src": "/imgs/features/5.png",
+              "alt": "usage"
+            }
+          },
+          {
+            "title": "Enter Your Idea",
+            "description": "Describe your video concept and let our AI generate creative prompts for you.",
+            "image": {
+              "src": "/imgs/features/6.png",
+              "alt": "usage"
+            }
+          },
+          {
+            "title": "Customize Your Project",
+            "description": "Modify the template with your data and contents. Specific AI functionality needs.",
+            "image": {
+              "src": "/imgs/features/7.png",
+              "alt": "usage"
+            }
+          },
+          {
+            "title": "Deploy to Production",
+            "description": "Deploy your project to production with a few steps and start serving customers immediately.",
+            "image": {
+              "src": "/imgs/features/8.png",
+              "alt": "usage"
+            }
+          }
+        ],
+        "className": "bg-muted"
+      },
+      "features": {
+        "id": "features",
+        "title": "Key Features of Video Prompts",
+        "description": "Everything you need to create amazing video prompts with AI.",
+        "items": [
+          {
+            "title": "Next.js Boilerplate",
+            "description": "Production-ready Next.js templates with SEO-friendly structure and i18n support.",
+            "icon": "RiNextjsFill"
+          },
+          {
+            "title": "Authentication & Payments",
+            "description": "Integrated Google OAuth, one-tap login, and Stripe payment processing.",
+            "icon": "RiKey2Fill"
+          },
+          {
+            "title": "Data Infrastructure",
+            "description": "Built-in Supabase integration for reliable and scalable data storage.",
+            "icon": "RiDatabase2Line"
+          },
+          {
+            "title": "One-Click Deployment",
+            "description": "Seamless deployment to Vercel or Cloudflare with automated setup.",
+            "icon": "RiCloudy2Fill"
+          },
+          {
+            "title": "Business Analytics",
+            "description": "Integrated Google Analytics and Search Console for tracking growth.",
+            "icon": "RiBarChart2Line"
+          },
+          {
+            "title": "AI-Ready Infrastructure",
+            "description": "Pre-configured AI integration with built-in credits system and API sales.",
+            "icon": "RiRobot2Line"
+          }
+        ]
+      },
+      "stats": {
+        "id": "stats",
+        "title": "Creators Love Video Prompts",
+        "description": "for its intuitive interface and powerful AI capabilities.",
+        "items": [
+          {
+            "title": "999+",
+            "description": "Customers"
+          },
+          {
+            "title": "200+",
+            "description": "Blocks"
+          },
+          {
+            "title": "50+",
+            "description": "Templates"
+          }
+        ],
+        "className": "bg-muted"
+      },
+      "testimonials": {
+        "id": "testimonials",
+        "title": "What Users Say About Video Prompts",
+        "description": "Hear from creators who use Video Prompts to enhance their creative workflow.",
+        "items": [
+          {
+            "name": "David Chen",
+            "role": "Founder of AIWallpaper.shop",
+            "quote": "Video Prompts transformed my creative process. I can now generate unique video ideas in seconds!",
+            "image": {
+              "src": "/imgs/avatars/1.png",
+              "alt": "david"
+            }
+          },
+          {
+            "name": "Rachel Kim",
+            "role": "CTO at HeyBeauty.ai",
+            "quote": "The pre-built AI infrastructure is a game-changer. We didn't have to worry about architecture - just focused on our AI beauty tech and went live fast.",
+            "image": {
+              "src": "/imgs/avatars/2.png",
+              "alt": "rachel"
+            }
+          },
+          {
+            "name": "Marcus Thompson",
+            "role": "Solo Developer",
+            "quote": "As a content creator, Video Prompts gives me endless inspiration. The AI-generated prompts are incredibly creative and unique.",
+            "image": {
+              "src": "/imgs/avatars/3.png",
+              "alt": "marcus"
+            }
+          },
+          {
+            "name": "Sofia Garcia",
+            "role": "CEO of Melodisco",
+            "quote": "The templates are production-ready and highly customizable. We built our AI music platform in hours instead of months. Incredible time-to-market!",
+            "image": {
+              "src": "/imgs/avatars/4.png",
+              "alt": "sofia"
+            }
+          },
+          {
+            "name": "James Wilson",
+            "role": "Tech Lead at GPTs.works",
+            "quote": "Video Prompts' AI is incredibly powerful. It understands context and generates prompts that perfectly match my vision.",
+            "image": {
+              "src": "/imgs/avatars/5.png",
+              "alt": "james"
+            }
+          },
+          {
+            "name": "Anna Zhang",
+            "role": "Startup Founder",
+            "quote": "From concept to execution, Video Prompts helps me create better content faster than ever before!",
+            "image": {
+              "src": "/imgs/avatars/6.png",
+              "alt": "anna"
+            }
+          }
+        ]
+      },
+      "faq": {
+        "id": "faq",
+        "title": "Frequently Asked Questions About Video Prompts",
+        "description": "Have another question? Contact us anytime.",
+        "items": [
+          {
+            "question": "What is Video Prompts and how does it work?",
+            "answer": "Video Prompts is an AI-powered platform that helps you generate creative video prompts and ideas. Simply describe your concept, and our AI will provide unique, inspiring prompts to guide your video creation."
+          },
+          {
+            "question": "Do I need video editing experience to use Video Prompts?",
+            "answer": "No! Video Prompts is designed for everyone, from beginners to professionals. Our intuitive interface makes it easy to generate creative prompts regardless of your experience level."
+          },
+          {
+            "question": "What types of videos can I create prompts for?",
+            "answer": "Video Prompts supports all types of video content - from short-form social media content to long-form documentaries, music videos, tutorials, and more."
+          },
+          {
+            "question": "How fast can I generate video prompts?",
+            "answer": "With Video Prompts, you can generate creative prompts in seconds. Our AI processes your input instantly and provides multiple options to choose from."
+          },
+          {
+            "question": "What AI models power Video Prompts?",
+            "answer": "Video Prompts uses state-of-the-art AI models trained on millions of creative examples to generate unique, high-quality prompts tailored to your needs."
+          },
+          {
+            "question": "Can I save and organize my generated prompts?",
+            "answer": "Yes! Video Prompts allows you to save, organize, and revisit your favorite prompts. You can create collections and export them for easy reference."
+          }
+        ]
+      },
+      "cta": {
+        "id": "cta",
+        "title": "Start Creating Amazing Video Prompts",
+        "description": "Unleash your creativity with AI-powered prompts.",
+        "buttons": [
+          {
+            "title": "Get Started",
+            "url": "https://videoprompthub.com",
+            "target": "_blank",
+            "icon": "Zap"
+          },
+          {
+            "title": "Read Document",
+            "url": "/docs",
+            "target": "_blank",
+            "variant": "outline",
+            "icon": "BookOpenText"
+          }
+        ],
+        "className": "bg-muted"
+      },
+      "subscribe": {
+        "id": "subscribe",
+        "title": "Subscribe to our newsletter",
+        "description": "Get the latest news and updates from Video Prompts.",
+        "submit": {
+          "input": {
+            "placeholder": "Enter your email"
+          },
+          "button": {
+            "title": "Subscribe"
+          },
+          "action": "/api/subscribe"
+        },
+        "className": "bg-muted"
+      }
+    }
+  }
+}
