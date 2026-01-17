@@ -1,10 +1,10 @@
 {
   "header": {
     "brand": {
-      "title": "ShipAny Two",
+      "title": "videoPromp",
       "logo": {
         "src": "/logo.png",
-        "alt": "ShipAny Two"
+        "alt": "videoPromp"
       },
       "url": "/admin"
     },
@@ -158,5 +158,5 @@
     "show_theme": true,
     "show_locale": false
   },
-  "variant": "sidebar"
+  "variant": "floating"
 }
